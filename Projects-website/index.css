@@ -1,0 +1,26 @@
+.days{
+    background-color: red;
+    margin:0;
+    padding: 0;
+    text-align: left;
+    
+}
+span{
+    display: inline-block;
+    width:100vw;
+}
+.middle {
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    width: 100vw;
+    
+}
+.row-top{
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    display: inline-block
+}
